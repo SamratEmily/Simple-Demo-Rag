@@ -2,6 +2,11 @@
 
 A beautiful React-based chat interface for your RAG (Retrieval-Augmented Generation) system powered by ChromaDB, Gemini embeddings, and FastAPI.
 
+## Demo Chat
+
+<img width="1431" height="787" alt="Screenshot 2025-09-18 at 9 42 24 AM" src="https://github.com/user-attachments/assets/f873947c-4a00-4641-b503-a55dc606e735" />
+
+
 ## ✨ Features
 
 - **Beautiful Chat UI**: Modern, responsive React interface with chat history
@@ -157,3 +162,4 @@ This project is open source and available under the MIT License.
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
+
